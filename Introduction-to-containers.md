@@ -72,12 +72,3 @@ It's important to note that while a container uses resources from the host opera
 so, in a nutshell, container base images are typically smaller compared to VM images because they are designed to be minimalist and only contain the necessary components for running a specific application or service. VMs, on the other hand, emulate an entire operating system, including all its libraries, utilities, and system files, resulting in a much larger size.
 
 
-
-What is Docker ?
-```
-Docker is a containerization platform that provides easy way to containerize your applications, which means, using Docker
-you can build container images, run the images to create containers and also push these containers to container regestries
-such as DockerHub, Quay.io and so on.
-
-In simple words, you can understand as containerization is a concept or technology and Docker Implements Containerization.
-```
